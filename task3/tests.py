@@ -1,7 +1,7 @@
 import unittest
 from task3 import task3
 
-class task3tests(unittest.TestCase):
+class tests(unittest.TestCase):
 
     def test_pi(self):
         expected = 3.1415926
